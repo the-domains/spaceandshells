@@ -1,6 +1,6 @@
 name: SpaceandShells
 favicon: null
-layout_spectrum: 0.46972708590328693
+layout_spectrum: 0.49462
 typography_spectrum: 0.19695530971512198
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#DD403A'
   brandStrength: 0.05101055884733796
   lightness: 0.766875266795978
-  saturation: 0.5171797054354101
+  saturation: 0
   rhythmicContrast: 0.7164376028813422
 purpose: []
