@@ -1,0 +1,28 @@
+name: SpaceandShells
+favicon: null
+layout_spectrum: 0.46972708590328693
+typography_spectrum: 0.19695530971512198
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05101055884733796
+  lightness: 0.766875266795978
+  saturation: 0.5171797054354101
+  rhythmicContrast: 0.7164376028813422
+purpose: []
