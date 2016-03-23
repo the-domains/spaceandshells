@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SpaceandShells]]></title>
+        <description><![CDATA[SpaceandShells]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Mar 2016 15:42:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Calif. Crab Crisis: Most Dungeness Crabs Now Safe to Eat, Some Fishery Closures Lifted]]></title>
+            <description><![CDATA[<article><h1>Calif. Crab Crisis: Most Dungeness Crabs Now Safe to Eat, Some Fishery Closures Lifted</h1><p>Dungeness crabs caught off the coast of California south of the Mendocino-Sonoma County line have been deemed safe for consumption, California Department of Fish and Wildlife officials announced Friday. Recent tests showed that domoic acid levels in crabs in the area no longer pose a risk to human health, prompting state officials to lift a closure of the recreational Dungeness crab fishery.</p><img src="http://cdn.patch.com/users/1396761/2016/03/T800x600/20160356f046c02dea6.jpg"></article>]]></description>
+            <link>http://patch.com/california/millvalley/calif-crab-crisis-most-dungeness-crabs-now-safe-eat-some-fishery-closures-lifted</link>
+            <guid isPermaLink="false">ee0597cc-cd12-4d56-b197-e9b441e80fd5</guid>
+            <pubDate>Wed, 23 Mar 2016 15:41:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
