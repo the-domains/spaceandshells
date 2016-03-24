@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The USSR sent over 50 dogs into space.\_"
-datePublished: '2016-03-24T16:05:27.967Z'
-dateModified: '2016-03-24T16:05:09.256Z'
+datePublished: '2016-03-24T18:34:35.972Z'
+dateModified: '2016-03-24T18:27:11.923Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-24-the-ussr-sent-over-50-dogs-into-space.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-the-ussr-sent-over-50-dogs-into-space.md
-published: true
 url: the-ussr-sent-over-50-dogs-into-space/index.html
 _type: Article
 
