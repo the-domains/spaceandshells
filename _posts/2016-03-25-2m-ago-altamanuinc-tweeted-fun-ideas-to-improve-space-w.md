@@ -39,8 +39,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/search?q=Space&src=tyah'
-datePublished: '2016-03-25T13:44:18.532Z'
-dateModified: '2016-03-25T13:43:56.228Z'
+datePublished: '2016-03-25T13:44:18.540Z'
+dateModified: '2016-03-25T13:43:18.221Z'
 title: ''
 sourcePath: _posts/2016-03-25-2m-ago-altamanuinc-tweeted-fun-ideas-to-improve-space-w.md
 published: true
