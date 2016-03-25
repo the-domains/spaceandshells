@@ -45,8 +45,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/search?q=%23turtle&src=typd'
-datePublished: '2016-03-25T13:44:19.139Z'
-dateModified: '2016-03-25T13:42:39.221Z'
+datePublished: '2016-03-25T13:44:19.255Z'
+dateModified: '2016-03-25T13:42:39.100Z'
 title: ''
 sourcePath: _posts/2016-03-25-on-mar-22-usfwsmidwest-tweeted-turtles-are-out-and-about.md
 published: true
